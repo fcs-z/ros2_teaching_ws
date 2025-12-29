@@ -5,7 +5,7 @@ vscode界面，左面有一个扩展包，搜索c，下载c/c++和c/c++ Extensio
 
 ## 1.创建工程文件
 ```
-mkdir -p ros2_ws/src
+mkdir -p ros2_teaching_ws/src
 cd ros2_ws/src
 ```
 ## 2.创建功能包
